@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 
 [![GitHub followers](https://img.shields.io/github/followers/abdelouahedakharaze?label=Follow&style=social)](https://github.com/abdelouahedakharaze)
 
+[![GitHub repo size](https://img.shields.io/github/repo-size/abdelouahedakharaze/your-repo-name)](https://github.com/abdelouahedakharaze/your-repo-name)
+
 
