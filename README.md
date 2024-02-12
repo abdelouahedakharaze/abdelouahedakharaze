@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelouahedakharaze&show_icons=true)
 
+![GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=abdelouahedakharaze)
+
 
 [![GitHub followers](https://img.shields.io/github/followers/abdelouahedakharaze?label=Follow&style=social)](https://github.com/abdelouahedakharaze)
 
